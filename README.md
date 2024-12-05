@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Noel! 👋
 
 ## About Me
 🎓 I’m a student pursuing a **Double Degree in Information Technology and Business**.  
@@ -38,7 +38,7 @@
 ---
 
 ## Connect with Me 📫
-- 📧 Email: [your-email@example.com](mailto:noeljolly3@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/noel-jolly-0a009b246/)  
+- 📧 Email:(noeljolly3@gmail.com)  
+- 🌐 LinkedIn:(https://www.linkedin.com/in/noel-jolly-0a009b246/)  
 
 ---
